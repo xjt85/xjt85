@@ -31,7 +31,7 @@ Frontend-разработчик. Верстаю по методу MobileFirst.
 ![MobileFirst](https://img.shields.io/badge/-метод%20Mobile%20First-090909?style=for-the-badge&logo=MobileFirst)
 ![html5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5)
 ![css3](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3)
-![sass](https://img.shields.io/badge/-sass-090909?style=for-the-badge&logo=sass)
+![sass](https://img.shields.io/badge/-sсss-090909?style=for-the-badge&logo=sсss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![Jquery](https://img.shields.io/badge/-Jquery-090909?style=for-the-badge&logo=Jquery)
 
