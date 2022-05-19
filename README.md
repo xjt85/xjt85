@@ -23,6 +23,7 @@ Fullstack-разработчик.
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/xjt85)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/roman_xjt)
 [![gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:xjtvu85@mail.com)
+
 [![FL.RU](https://img.shields.io/badge/%D0%9C%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%20%D0%BD%D0%B0%20-FL.RU-brightgreen)](https://www.fl.ru/users/roman_xjt)
 
 ### ✍ Навыки и инструменты
