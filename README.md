@@ -18,7 +18,7 @@ Backend, Fullstack-разработчик (Python, Django, HMTL5, CSS3, SCSS).
 
 ## ✍ Навыки и инструменты
 
-### 🛠 Backtend
+### 🛠 Backend
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django)
