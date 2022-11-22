@@ -10,7 +10,7 @@ Backend, Fullstack-разработчик (Python, Django, HMTL5, CSS3, SCSS).
 
 ### 📫 Свяжитесь со мной
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/xjt85)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/xjavue)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/roman_xjt)
 [![gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:xjtvu85@mail.com)
 
